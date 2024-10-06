@@ -1,1 +1,1 @@
-# Taller CMake
+# Compilando C/C++ con CMake
