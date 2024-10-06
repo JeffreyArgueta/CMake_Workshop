@@ -1,0 +1,11 @@
+/home/fort/ejemplos/ejemplo 5/build/CMakeFiles/edit_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/CMakeFiles/rebuild_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/src/CMakeFiles/MainApp.dir
+/home/fort/ejemplos/ejemplo 5/build/src/CMakeFiles/edit_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/src/CMakeFiles/rebuild_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/ui/CMakeFiles/UiLib.dir
+/home/fort/ejemplos/ejemplo 5/build/ui/CMakeFiles/edit_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/ui/CMakeFiles/rebuild_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/utils/CMakeFiles/UtilsLib.dir
+/home/fort/ejemplos/ejemplo 5/build/utils/CMakeFiles/edit_cache.dir
+/home/fort/ejemplos/ejemplo 5/build/utils/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUiLib.a CMakeFiles/UiLib.dir/MainFrame.cpp.o
+/usr/bin/ranlib libUiLib.a

@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: Un ejemplo de uso de CPack
+Maintainer: Christopher Álvarez
+Package: ejemplocpack
+Priority: optional
+Section: devel
+Version: 1.0.0
+Installed-Size: 397
+
