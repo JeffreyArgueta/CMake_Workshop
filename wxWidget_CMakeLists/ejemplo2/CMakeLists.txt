@@ -11,6 +11,3 @@ include(${wxWidgets_USE_FILE})
 add_subdirectory(src)
 add_subdirectory(ui)
 add_subdirectory(utils)
-
-
-
