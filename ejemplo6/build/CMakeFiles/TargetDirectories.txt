@@ -1,9 +1,0 @@
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/EjemploCPack.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/package.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/package_source.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/edit_cache.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/rebuild_cache.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/list_install_components.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/install.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/install/local.dir
-/home/fort/ejemplos/ejemplo 6/build/CMakeFiles/install/strip.dir

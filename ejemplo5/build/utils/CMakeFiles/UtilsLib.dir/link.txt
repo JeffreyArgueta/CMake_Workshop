@@ -1,2 +1,0 @@
-/usr/bin/ar qc libUtilsLib.a CMakeFiles/UtilsLib.dir/Helper.cpp.o
-/usr/bin/ranlib libUtilsLib.a
