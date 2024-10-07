@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(EjemploUno)
+project(EjemploDos)
 
 # Encontrar wxWidgets
 find_package(wxWidgets REQUIRED COMPONENTS core base)
