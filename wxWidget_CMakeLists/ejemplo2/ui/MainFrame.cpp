@@ -18,7 +18,7 @@ MainFrame::MainFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title, 
     wxBoxSizer* contentSizer = new wxBoxSizer(wxVERTICAL);
 
     // Título centrado
-    wxStaticText* titleText = new wxStaticText(panel, wxID_ANY, wxT("Bienbenidos desde el modulo ui"), wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
+    wxStaticText* titleText = new wxStaticText(panel, wxID_ANY, wxT("Bienvenidos desde el modulo ui"), wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
     titleText->SetFont(wxFont(16, wxFONTFAMILY_DEFAULT, wxFONTSTYLE_NORMAL, wxFONTWEIGHT_BOLD)); // Fuente más grande y negrita
     contentSizer->Add(titleText, 0, wxALL | wxALIGN_CENTER, 15);
 
@@ -34,7 +34,7 @@ MainFrame::MainFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title, 
     button->SetForegroundColour(*wxBLACK);
     buttonSizer->Add(button, 0, wxALL | wxEXPAND, 15); // Ocupa todo el ancho
 
-    // Botón secundario (nuevo)
+    // Botón secundario 
     wxButton* secondButton = new wxButton(panel, ID_BUTTON_CLOSE, wxT("Cerrar")); // Asignar un ID fijo
     secondButton->SetBackgroundColour(*wxLIGHT_GREY);
     secondButton->SetForegroundColour(*wxBLACK);
