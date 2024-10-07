@@ -34,7 +34,7 @@ MainFrame::MainFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title, 
     button->SetForegroundColour(*wxBLACK);
     buttonSizer->Add(button, 0, wxALL | wxEXPAND, 15); // Ocupa todo el ancho
 
-    // Botón secundario (nuevo)
+    // Botón secundario 
     wxButton* secondButton = new wxButton(panel, ID_BUTTON_CLOSE, wxT("Cerrar")); // Asignar un ID fijo
     secondButton->SetBackgroundColour(*wxLIGHT_GREY);
     secondButton->SetForegroundColour(*wxBLACK);
